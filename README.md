@@ -15,8 +15,8 @@ gdsggd
 adsf  
 d  
 
-[]daa  
-[x]sdg
+-[]daa  
+-[x]sdg
 
 |asdfgs||dasf||sda|  
 ❘１ ❘❘ ２ ❘❘３ ❘
