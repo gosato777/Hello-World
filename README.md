@@ -2,27 +2,27 @@
 
 ## 練習用に作成
 
-### こんにちは
-さfddsfdhg
-dsagj
+### こんにちは  
+さfddsfdhg  
+dsagj  
 *dsfa
 ---
 **asdfds**
 ___
 dsagsd
 ***
-gdsggd
-adsf
-d
+gdsggd  
+adsf  
+d  
 
-[]daa
+[]daa  
 [x]sdg
 
-|asdfgs||dasf||sda|
+|asdfgs||dasf||sda|  
 ❘１ ❘❘ ２ ❘❘３ ❘
 
-|asdfgs||dasf||sda|
-|---||---||---|
+|asdfgs||dasf||sda|  
+|---||---||---|  
 ❘１ ❘❘ ２ ❘❘３ ❘
 
 
